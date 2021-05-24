@@ -1,6 +1,10 @@
-# Supervivencia-de-Empresas
-Formal Companies Survival Analysis 
+# Supervivencia de Empresas aportantes al Infonavit
 
+Fecha de inicio del estudio: segundo bimestre de 2013.
+Fecha de fin del estudio: sexto bimestre de 2019. 
+
+
+### Para el trabajo final se requiere:
 **Lineamientos del trabajo final.**
 
 1) Formar equipos idealmente de 3 personas, mínimo de 2.
