@@ -29,3 +29,9 @@ vi. Apéndice. Incluyan si quieren, todo el código utilizado. Por favor no incl
     NOTA: Las gráfica que consideren útiles las pueden incluir en cualquiera de las secciones de la i-iv con comentarios para que el lector vea lo que ustedes           quieren que vean. Las gráficas que no sean indispensables las pueden mandar al apéndice.
 
 4) Preparen una presentación de 15 minutos más o menos, el formato es libre. Todos los integrantes tienen que hablar y la calificación de la presentación será individual, mientras que la calificación del trabajo será por equipo. Se penalizará a aquellos equipos que se tarden más del tiempo asignado originalmente en su presentación.
+
+
+### Referencias
+
+1. [Time-varying covariates and coefficients in Cox regression models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015946/)
+
