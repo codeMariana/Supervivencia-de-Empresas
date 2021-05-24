@@ -1,7 +1,8 @@
 # Supervivencia de Empresas aportantes al Infonavit
 
-Fecha de inicio del estudio: segundo bimestre de 2013.
-Fecha de fin del estudio: sexto bimestre de 2019. 
+* Fecha de inicio del estudio: segundo bimestre de 2013.
+
+* Fecha de fin del estudio: sexto bimestre de 2019. 
 
 
 ### Para el trabajo final se requiere:
